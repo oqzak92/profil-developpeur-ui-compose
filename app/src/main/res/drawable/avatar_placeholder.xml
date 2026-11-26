@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Avatar placeholder : silhouette sur fond vert Qoul -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <path
+        android:fillColor="#0BC167"
+        android:pathData="M0,0h96v96h-96z" />
+    <path
+        android:fillColor="#E7F9F0"
+        android:pathData="M48,22a16,16 0,1 1,0 32a16,16 0,1 1,0 -32z" />
+    <path
+        android:fillColor="#E7F9F0"
+        android:pathData="M16,96c0,-20 14,-34 32,-34s32,14 32,34z" />
+</vector>
